@@ -1,4 +1,4 @@
-# MporeoPayment
+# Nuvei Payment Integration
 
 This is a React Native application for payment processing with Nuvei payment gateway integration. The project is built using React Native 0.76.0.
 
@@ -142,7 +142,7 @@ For a production app, you should:
 ## Project Structure
 
 ```
-MporeoPayment/
+NuveiPayment/
   ├── android/                 # Android native code
   ├── ios/                     # iOS native code
   ├── src/                     # Application source code
